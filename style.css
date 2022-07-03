@@ -1,0 +1,27 @@
+body {
+    color: white; 
+    background-color: black;
+}
+div.top {
+    font-size: 32px; font-family: Arial, Helvetica, sans-serif; text-align: center; margin-top: 50px; margin-bottom: 50px;
+}
+div.recipelist {
+    font-size: 20px; font-family: Arial, Helvetica, sans-serif; text-align: left; margin 50% 100px 50% 100px;
+}
+div.image {
+    text-align: center;
+    margin-left: 100px; margin-right: 100px;
+}
+div.button{
+    margin-left: 50%; margin-right: 50%;
+}
+button {
+    background-color: cornflowerblue;
+    animation: alternate;
+    align: center; 
+}
+a {
+    color:coral;
+    font-size: large;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
